@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<body>
+    <!-- // 创建一个Vue实例 -->
+    <h1 id="app">
+        <!-- 模板 语法  -->
+        {{name}} {{age}}
+    </h1>
+</body>
+<script>
+    // 创建一个Vue实例
+    var app = new Vue({
+        // 挂载点（指定Vue实例要控制的DOM元素,为哪个服务）
+        el:"#app",
+        //数据
+        data:{
+            //对象
+            
+                name: "Karmen",
+                age: 18
+            
+        }
+    })
+
+    //     data()
+    //     {
+    //         return {
+    //                 name: "Karmen",
+    //                 age: 18
+    //         }
+
+    //     }
+    // })
+</script>
+</html>

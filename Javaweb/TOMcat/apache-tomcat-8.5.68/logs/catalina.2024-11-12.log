@@ -1,0 +1,73 @@
+12-Nov-2024 19:32:19.974 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.68
+12-Nov-2024 19:32:19.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jun 11 2021 13:32:01 UTC
+12-Nov-2024 19:32:19.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.68.0
+12-Nov-2024 19:32:19.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 11
+12-Nov-2024 19:32:19.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+12-Nov-2024 19:32:19.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+12-Nov-2024 19:32:19.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk-11
+12-Nov-2024 19:32:19.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    11.0.24+7-LTS-271
+12-Nov-2024 19:32:19.979 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+12-Nov-2024 19:32:19.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68
+12-Nov-2024 19:32:19.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68
+12-Nov-2024 19:32:19.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Nov-2024 19:32:19.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+12-Nov-2024 19:32:19.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+12-Nov-2024 19:32:19.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-Nov-2024 19:32:19.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Nov-2024 19:32:19.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\conf\logging.properties
+12-Nov-2024 19:32:19.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Nov-2024 19:32:19.984 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+12-Nov-2024 19:32:19.984 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Nov-2024 19:32:19.984 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+12-Nov-2024 19:32:19.984 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68
+12-Nov-2024 19:32:19.985 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68
+12-Nov-2024 19:32:19.985 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\temp
+12-Nov-2024 19:32:19.985 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.30]。
+12-Nov-2024 19:32:19.985 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+12-Nov-2024 19:32:19.985 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+12-Nov-2024 19:32:19.989 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1k  25 Mar 2021]
+12-Nov-2024 19:32:20.020 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+12-Nov-2024 19:32:20.177 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Nov-2024 19:32:20.184 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 505 ms
+12-Nov-2024 19:32:20.214 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+12-Nov-2024 19:32:20.214 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.68]
+12-Nov-2024 19:32:20.224 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\docs]
+12-Nov-2024 19:32:20.474 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[108]毫秒。
+12-Nov-2024 19:32:20.489 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\docs]的部署已在[266]毫秒内完成
+12-Nov-2024 19:32:20.490 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\examples]
+12-Nov-2024 19:32:20.704 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\examples]的部署已在[214]毫秒内完成
+12-Nov-2024 19:32:20.705 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\host-manager]
+12-Nov-2024 19:32:20.734 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\host-manager]的部署已在[29]毫秒内完成
+12-Nov-2024 19:32:20.735 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\manager]
+12-Nov-2024 19:32:20.755 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\manager]的部署已在[20]毫秒内完成
+12-Nov-2024 19:32:20.756 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\ROOT]
+12-Nov-2024 19:32:20.770 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\ROOT]的部署已在[14]毫秒内完成
+12-Nov-2024 19:32:20.773 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+12-Nov-2024 19:32:20.780 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 596 ms
+12-Nov-2024 19:36:01.113 信息 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\hello]
+12-Nov-2024 19:36:01.174 信息 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\hello]的部署已在[61]毫秒内完成
+12-Nov-2024 19:45:32.609 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy 正在取消部署上下文[/hello]
+12-Nov-2024 19:45:32.658 警告 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches 无法清除web应用程序[hello]的ObjectStreamClass$缓存中的软引用
+	java.lang.ClassCastException: class java.io.ObjectStreamClass$Caches$1 cannot be cast to class java.util.Map (java.io.ObjectStreamClass$Caches$1 and java.util.Map are in module java.base of loader 'bootstrap')
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2331)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2306)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1675)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1605)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5505)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:846)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1458)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1383)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1646)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1398)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1402)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1370)
+		at java.base/java.lang.Thread.run(Thread.java:834)
+12-Nov-2024 19:45:32.716 信息 [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\haha.war]
+12-Nov-2024 19:45:32.815 警告 [localhost-startStop-3] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+12-Nov-2024 19:45:32.832 信息 [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\BaiduNetdiskDownload\JavaWeb-资料\day08-HTTP&Tomcat&Servlet\资料\2. Tomcat\apache-tomcat-8.5.68-windows-x64\apache-tomcat-8.5.68\webapps\haha.war]的部署已在[116]ms内完成

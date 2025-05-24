@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+// 111111闭包
+        function outer(){
+            let count=1;
+            function inner(){
+  
+                console.log(count)
+                
+            }        
+            return inner
+        }
+
+        let s=outer()
+        s()
+//222222自我调用
+        function aa(){
+            let i=2
+            function bb(){
+                console.log(i)
+            }
+           bb()
+        }
+        aa()
+//3333333例子：统计一个函数被调用了几次
+        let j=0;
+        function aaa(){
+            
+            console.log(j++)
+        }
+//4444444使用闭包解决别人可以修改的问题
+        function ffff(){
+            let k=0
+            function sss()
+            {
+                console.log(k++)
+
+            }
+            return sss
+        }
+        let ll=ffff()
+        ll()
+
+    </script>
+</body>
+</html>
